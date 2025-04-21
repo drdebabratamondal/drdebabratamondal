@@ -116,3 +116,15 @@ Welcome! I’m **Dr. Debabrata Mondal**, an Ayurvedic Physician passionate about
 **Feel free to connect or reach out for collaboration, consultation, or conversation!**
 
 ---
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdebabratamondal/drdebabratamondal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdebabratamondal/drdebabratamondal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/drdebabratamondal/drdebabratamondal/output/pacman-contribution-graph.svg">
+</picture>
+
+###
