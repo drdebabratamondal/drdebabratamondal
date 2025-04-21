@@ -24,7 +24,6 @@
 
 ###
 
-
 ## Dr. Debabrata Mondal
 
 ### Ayurvedic Physician | Nadi Vaidya \& Marma Specialist | Integrating Ayurveda \& AI
@@ -42,7 +41,6 @@ Welcome! I’m **Dr. Debabrata Mondal**, an Ayurvedic Physician passionate about
 </picture>
 
 ---
-
 
 **🌟 About Me**
 
@@ -122,14 +120,14 @@ Welcome! I’m **Dr. Debabrata Mondal**, an Ayurvedic Physician passionate about
 
 ---
 
-**Feel free to connect or reach out for collaboration, consultation, or conversation!**
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdebabratamondal/drdebabratamondal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdebabratamondal/drdebabratamondal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/drdebabratamondal/drdebabratamondal/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+**Feel free to connect or reach out for collaboration, consultation, or conversation!**
 
 ---
